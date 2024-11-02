@@ -1,7 +1,4 @@
-
 # Snowflake Local Framework
-
-![Snowflake Local Framework](https://github.com/jmfeck/snowflake-local-framework)
 
 ## Overview
 The Snowflake Local Framework provides a set of tools to manage Snowflake operations directly from a local environment. This framework simplifies tasks such as uploading flat files, executing SQL queries, and exporting tables, all without the need for direct access to Snowflake. It’s ideal for development and testing, offering flexibility and control over data processes.
