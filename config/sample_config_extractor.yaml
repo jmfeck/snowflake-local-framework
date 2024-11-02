@@ -1,0 +1,10 @@
+file_param:
+  file_ext: .csv
+  file_radcname: output_sample_file
+  sheet_name: ''
+project_param:
+  output_foldername: output
+snow_param:
+  database: table_database
+  schema: table_schema
+  tablename: table_name

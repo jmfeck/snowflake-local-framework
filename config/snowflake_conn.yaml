@@ -1,0 +1,6 @@
+snow_conn_param:
+  acc: your_account_id.region_id
+  auth_type: externalbrowser
+  role: your_role
+  username: your_username
+  wh: your_warehouse

@@ -1,0 +1,10 @@
+file_param:
+  file_ext: .xlsx
+  file_radcname: input_sample_file
+  sheet_name: input_sample_file
+project_param:
+  input_foldername: input
+snow_param:
+  database: table_database
+  schema: table_schema
+  tablename: table_name
