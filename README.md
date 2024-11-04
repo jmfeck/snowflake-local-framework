@@ -65,7 +65,7 @@ read -p "Press any key to continue..."
 
 Make it executable:
 ```bash
-chmod +x run_snowflake_tasks.sh
+chmod +x sample_execute_pipeline.bash.sh
 ```
 
 ## Contributing
